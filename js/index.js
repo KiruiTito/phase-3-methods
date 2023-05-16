@@ -53,4 +53,5 @@ function halve(number) {
   if (typeof number !== "number") return null;
 
   return number / 2;
+  
 }
